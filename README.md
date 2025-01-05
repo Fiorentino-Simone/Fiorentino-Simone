@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular, Ionic**
 
-- 📫 How to reach me **s.fiorentino.1743@vallauri.edu**
+- 📫 How to reach me **simo.fiorentino04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
